@@ -99,6 +99,10 @@ To run the project, execute the following command:
 - Twitter: [@Danielutibe07](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
 - LinkedIn: [Akpan Daniel](https://www.linkedin.com/in/danutibe07/)
 
+👤 **Zewdie Habtie**
+- GitHub: [ZewdieMc](https://github.com/ZewdieMc)
+- Twitter: [@HabtieZewdie](https://twitter.com/HabtieZewdie)
+- LinkedIn: [Zewdie Habtie](https://www.linkedin.com/in/zewdiehabtie/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
