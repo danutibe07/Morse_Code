@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Ruby Morese Decoder <a name="about-project"></a>
+# 📖 Ruby Morse Decoder <a name="about-project"></a>
 
 Simple ruby program that decodes a morese code message into alphabet characters.
 
