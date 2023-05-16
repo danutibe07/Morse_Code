@@ -1,14 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <h3><b>Vet clinic database</b></h3>
-
-</div>
-
-<a name="readme-top"></a>
-
-<div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="logo" width="140"  height="auto" />
   <br/>
 
