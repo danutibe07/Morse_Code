@@ -23,8 +23,8 @@ def decode_word(encoded_word)
   word
 end
 
-def decode(message)
+def decode_message(message)
   message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
 
-puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+puts decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
