@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 <ul>
 <li>cd my-folder</li>
-<li>git clone https://github.com/gaks1/morse-code.git</li>
+<li>git clone https://github.com/danutibe07/morse-code.git</li>
 </ul>
 
 ### Install
