@@ -105,6 +105,10 @@ To run the project, execute the following command:
 - LinkedIn: [Zewdie Habtie](https://www.linkedin.com/in/zewdiehabtie/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+👤 **Kevin Toro**
+- GitHub: [@torobucii](https://github.com/torobucci)
+- Twitter: [@torobucii](https://twitter.com/@torobucii)
+- LinkedIn: [Kevin Toro](https://www.linkedin.com/in/kevin-toro-047181238/)
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] Add graphical interface
@@ -115,7 +119,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gaks1/morse-code/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
