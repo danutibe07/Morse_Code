@@ -18,9 +18,7 @@ def decode_char(char)
 end
 
 def decode_word(encoded_word)
-  word = ''
-  encoded_word.split.map { |char| word += decode_char(char) }
-  word
+  encoded_word.split.map { |char| decode_char(char) }.join
 end
 
 def decode_message(message)
