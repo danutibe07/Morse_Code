@@ -14,7 +14,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Ruby Morese Decoder <a name="about-project"></a>
+# 📖 Ruby Morse Decoder <a name="about-project"></a>
 
 Simple ruby program that decodes a morese code message into alphabet characters.
 
@@ -44,11 +44,11 @@ Simple ruby program that decodes a morese code message into alphabet characters.
 - Decrypts morse messages
 - Utilizes reusable methods
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Not available
+- Not available -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 <ul>
 <li>cd my-folder</li>
-<li>git clone https://github.com/gaks1/morse-code.git</li>
+<li>git clone https://github.com/danutibe07/morse-code.git</li>
 </ul>
 
 ### Install
@@ -99,8 +99,16 @@ To run the project, execute the following command:
 - Twitter: [@Danielutibe07](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
 - LinkedIn: [Akpan Daniel](https://www.linkedin.com/in/danutibe07/)
 
+👤 **Zewdie Habtie**
+- GitHub: [ZewdieMc](https://github.com/ZewdieMc)
+- Twitter: [@HabtieZewdie](https://twitter.com/HabtieZewdie)
+- LinkedIn: [Zewdie Habtie](https://www.linkedin.com/in/zewdiehabtie/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+👤 **Kevin Toro**
+- GitHub: [@torobucii](https://github.com/torobucci)
+- Twitter: [@torobucii](https://twitter.com/@torobucii)
+- LinkedIn: [Kevin Toro](https://www.linkedin.com/in/kevin-toro-047181238/)
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] Add graphical interface
@@ -111,7 +119,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/gaks1/morse-code/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
