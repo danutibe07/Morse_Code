@@ -17,10 +17,14 @@ def decode_char(char)
   morse_code.fetch(char, '')
 end
 
-def decode_word(word)
-  word.split.map { |char| decode_char(char) }.join
+def decode_word(encoded_word)
+  word = ''
+  encoded_word.split.map { |char| word += decode_char(char) }
+  word
 end
 
 def decode(message)
   message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
+
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
